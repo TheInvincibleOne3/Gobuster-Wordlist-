@@ -28,3 +28,7 @@ where -w : the .txt consisting of lists of words to be brute forced
 
 - in my case, i made a .txt including many common and vastly used hidden directories
 
+
+disclaimer:
+
+Use responsibly. Don’t be the jerk who scans random websites without permission. This list is for authorized penetration testing and educational purposes only.
